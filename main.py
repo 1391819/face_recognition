@@ -578,7 +578,7 @@ if __name__ == '__main__':
 
         # We ask to the user whether he wants to train the algorithm or not
         # We need to train it everytime the database or photos/users are updated
-        answer = raw_input('Do you want to train the model ? (y/n) ')
+        answer = raw_input('Do you want to train the model ? If first time type y (y/n) ')
 
         # If yes train
         if answer is 'y':
