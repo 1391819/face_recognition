@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](Utilities/logo.png)
+<img src="/Utilities/logo.png" alt="logo" width="64"/>
 
 </div>
 
@@ -14,22 +14,22 @@ A face recognition system implemented for my [Diploma di Stato](https://qips.uca
 
 ## Stack
 
-- [Raspberry PI](https://www.raspberrypi.org/) - A small single-board computer.
-- [Raspbian](https://www.raspbian.org/) - A Debian based OS optimised for the Raspberry PI hardware.
-- [SQLite3](https://www.sqlite.org/index.html) - A C library that provides a lightweight disk-based database that doesn't require a separate server process.
-- [OpenCV](https://opencv.org/) - An open source computer vision and machine learning software library.
+- [Raspberry PI](https://www.raspberrypi.org/) - A small single-board computer
+- [Raspbian](https://www.raspbian.org/) - A Debian based OS optimised for the Raspberry PI hardware
+- [SQLite3](https://www.sqlite.org/index.html) - A C library that provides a lightweight disk-based database that doesn't require a separate server process
+- [OpenCV](https://opencv.org/) - An open source computer vision and machine learning software library
 
 ## Project structure
 
 ```
 $PROJECT_ROOT
-│   # presentation files (italian only) and other small testing scripts
+│   # Presentation files (italian only) and other small testing scripts
 ├── utilities
-│   # custom face data
+│   # Custom face data
 ├── eigenvectors
-│   # dataset
+│   # Dataset
 ├── training
-│   # key scripts
+│   # Key scripts
 └── ...
 ```
 
