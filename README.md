@@ -1,6 +1,6 @@
 <div align="center">
 
-![Alt text](./utilities/logo.png "Logo")
+![Alt text](Utilities/logo.png)
 
 </div>
 
@@ -36,16 +36,16 @@ $PROJECT_ROOT
 ## Highlights
 
   <div align="center">
-    <img src="/utilities/screenshots/schedule.jpg" alt="gantt chart" width="500"/>
+    <img src="/Utilities/screenshots/schedule.jpg" alt="gantt chart" width="500"/>
     <br/>
     <br/>
-    <img src="/utilities/screenshots/pca.jpg" alt="pca" width="500"/>
+    <img src="/Utilities/screenshots/pca.jpg" alt="pca" width="500"/>
     <br/>
     <br/>
-    <img src="/utilities/screenshots/raspberry_pi.jpg" alt="prototype" width="500"/>
+    <img src="/Utilities/screenshots/raspberry_pi.jpg" alt="prototype" width="500"/>
     <br/>
     <br/>
-    <img src="/utilities/screenshots/analysis.jpg" alt="analysis" width="500"/>
+    <img src="/Utilities/screenshots/analysis.jpg" alt="analysis" width="500"/>
   </div>
 
 ## Roadmap
