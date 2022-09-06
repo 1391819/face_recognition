@@ -10,7 +10,7 @@
 
 ## About
 
-A face recognition system implemented for my [Diploma di Stato](https://qips.ucas.com/qip/italy-diploma-di-esame-di-stato-conclusivo-dei-corsi-di-istruzione-secondaria-superiore) project. After starting the prototype through the attached button, the camera continuously scans the environment for people's faces by using the Viola-Jones method and the Haar Cascade Classifier. Following this, the Eigenfaces algorithm (PCA based) is used for face recognition, which can be trained and then used to successfully identify people.
+A face recognition system implemented for my [Diploma di Stato](https://qips.ucas.com/qip/italy-diploma-di-esame-di-stato-conclusivo-dei-corsi-di-istruzione-secondaria-superiore) project. After starting the prototype through the attached button, the camera continuously scans the environment for people's faces by using the Viola-Jones method and the Haar Cascade Classifier. Following this, the Eigenface algorithm (PCA based) is used for face recognition, which can be trained and then used to successfully identify people.
 
 ## Stack
 
