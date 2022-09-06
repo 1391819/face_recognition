@@ -1,6 +1,6 @@
 <div align="center">
 
-![Alt text](utilities/logo.png "Logo")
+![Alt text](./utilities/logo.png "Logo")
 
 </div>
 
