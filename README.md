@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](/utilities/logo.png)
+![logo](/utilities/logo.png?raw=true)
 
 </div>
 
