@@ -35,6 +35,14 @@ $PROJECT_ROOT
 └── ...
 ```
 
+## Roadmap
+
+- [x] Single face - detection and recogntion
+- [x] Multiple faces - detection and recognition
+- [ ] Improve external design
+- [ ] Translate thesis to English
+- [ ] Clear folders structure
+
 ## Highlights
 
   <div align="center">
@@ -49,14 +57,6 @@ $PROJECT_ROOT
     <br/>
     <img src="/Utilities/screenshots/analysis.jpg" alt="analysis" width="500"/>
   </div>
-
-## Roadmap
-
-- [x] Single face - detection and recogntion
-- [x] Multiple faces - detection and recognition
-- [ ] Improve external design
-- [ ] Translate thesis to English
-- [ ] Clear folders structure
 
 ## License
 
