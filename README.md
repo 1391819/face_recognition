@@ -62,6 +62,6 @@ Apache 2.0
 
 ## Attributions
 
-<a href="https://www.flaticon.com/free-icons/face" title="face icons">Face icons created by Flat Icons - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/face" title="face icons">Face icons created by Flat Icons - Flaticon</a>
 
 </div>
