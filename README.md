@@ -46,16 +46,16 @@ $PROJECT_ROOT
 ## Highlights
 
   <div align="center">
-    <img src="/Utilities/screenshots/schedule.jpg" alt="gantt chart" width="500"/>
+    <img src="/Utilities/screenshots/schedule.jpg" alt="gantt chart"/>
     <br/>
     <br/>
-    <img src="/Utilities/screenshots/pca.jpg" alt="pca" width="500"/>
+    <img src="/Utilities/screenshots/pca.jpg" alt="pca"/>
     <br/>
     <br/>
-    <img src="/Utilities/screenshots/raspberry_pi.jpg" alt="prototype" width="500"/>
+    <img src="/Utilities/screenshots/raspberry_pi.jpg" alt="prototype"/>
     <br/>
     <br/>
-    <img src="/Utilities/screenshots/analysis.jpg" alt="analysis" width="500"/>
+    <img src="/Utilities/screenshots/analysis.jpg" alt="analysis"/>
   </div>
 
 ## License
