@@ -10,7 +10,7 @@
 
 ## About
 
-A face recognition system implemented for my [Diploma di Stato](https://qips.ucas.com/qip/italy-diploma-di-esame-di-stato-conclusivo-dei-corsi-di-istruzione-secondaria-superiore) project. After starting the prototype through the attached button, the camera continuously scans the environment for people's faces by using the Viola-Jones method and the Haar Cascade Classifier. Following this, the Eigenface algorithm (PCA based) is used for face recognition, which can be trained and then used to successfully identify people.
+A face recognition system implemented for my [Diploma di Stato](https://qips.ucas.com/qip/italy-diploma-di-esame-di-stato-conclusivo-dei-corsi-di-istruzione-secondaria-superiore) project. After starting the prototype through the attached button, the camera continuously scans the environment for people's faces by using the Viola-Jones algorithm. Following this, the Eigenface method (PCA based) is used for face recognition, which can be trained and then used to successfully identify people.
 
 ## Stack
 
@@ -18,8 +18,8 @@ A face recognition system implemented for my [Diploma di Stato](https://qips.uca
 - [Raspbian (Jessie)](https://www.raspbian.org/) - A Debian based OS optimised for the Raspberry Pi hardware
 - [SQLite3](https://www.sqlite.org/index.html) - A C library that provides a lightweight disk-based database that doesn't require a separate server process
 - [OpenCV](https://opencv.org/) - An open source computer vision and machine learning software library
-- Viola-Jones method and Haar Cascade Classifier
-- Eigenface algorithm
+- Viola-Jones algorithm
+- Eigenface method
 
 ## Project structure
 
