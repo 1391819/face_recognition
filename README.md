@@ -14,10 +14,9 @@ A face recognition system implemented for my [Diploma di Stato](https://qips.uca
 
 ## Stack
 
-- [Raspberry Pi 3](https://www.raspberrypi.org/) - A small single-board computer
-- [Raspbian (Jessie)](https://www.raspbian.org/) - A Debian based OS optimised for the Raspberry Pi hardware
-- [SQLite3](https://www.sqlite.org/index.html) - A C library that provides a lightweight disk-based database that doesn't require a separate server process
-- [OpenCV](https://opencv.org/) - An open source computer vision and machine learning software library
+- Raspberry Pi 3 (Jessie)
+- OpenCV
+- SQLite3
 - Viola-Jones algorithm
 - Eigenface method
 
