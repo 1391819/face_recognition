@@ -8,7 +8,7 @@
 
 <div align="justify">
 
-A face recognition system implemented for my [Diploma di Stato](https://qips.ucas.com/qip/italy-diploma-di-esame-di-stato-conclusivo-dei-corsi-di-istruzione-secondaria-superiore) project. After starting the prototype through the attached button, the camera continuously scans the environment for people's faces by using the Viola-Jones algorithm. Following this, the Eigenface method (PCA based) is used for face recognition, which can be trained and then used to successfully identify people.
+A face recognition system which I implemented for my [Diploma di Stato](https://qips.ucas.com/qip/italy-diploma-di-esame-di-stato-conclusivo-dei-corsi-di-istruzione-secondaria-superiore) project. After starting the prototype through the attached button, the camera continuously scans the environment for people's faces by using the Viola-Jones algorithm. Following this, the Eigenface method (PCA based) is used for face recognition, which can be trained and then used to successfully identify people.
 
 ## Stack
 
@@ -34,7 +34,7 @@ $PROJECT_ROOT
 
 ## Roadmap
 
-- [x] Single face - detection and recogntion
+- [x] Single face - detection and recognition
 - [x] Multiple faces - detection and recognition
 - [ ] Improve external design
 - [ ] Translate thesis to English
@@ -43,10 +43,10 @@ $PROJECT_ROOT
 ## Highlights
 
   <div align="center">
-    <img src="/Utilities/screenshots/schedule.jpg" alt="gantt chart"/>
+    <img src="/Utilities/screenshots/schedule.jpg" alt="Gantt chart"/>
     <br/>
     <br/>
-    <img src="/Utilities/screenshots/pca.jpg" alt="pca"/>
+    <img src="/Utilities/screenshots/pca.jpg" alt="PCA"/>
     <br/>
     <br/>
     <img src="/Utilities/screenshots/raspberry_pi.jpg" alt="prototype"/>
