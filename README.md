@@ -10,6 +10,14 @@
 
 A face recognition system which I implemented for my [Diploma di Stato](https://qips.ucas.com/qip/italy-diploma-di-esame-di-stato-conclusivo-dei-corsi-di-istruzione-secondaria-superiore) project. After starting the prototype through the attached button, the camera continuously scans the environment for people's faces by using the Viola-Jones algorithm. Following this, the Eigenface method (PCA based) is used for face recognition, which can be trained and then used to successfully identify people.
 
+## Roadmap
+
+- [x] Single face - detection and recognition
+- [x] Multiple faces - detection and recognition
+- [ ] Improve external design
+- [ ] Translate thesis to English
+- [ ] Clear folders structure
+
 ## Stack
 
 - Raspberry Pi 3 (Jessie)
@@ -31,14 +39,6 @@ $PROJECT_ROOT
 │   # Key scripts
 └── ...
 ```
-
-## Roadmap
-
-- [x] Single face - detection and recognition
-- [x] Multiple faces - detection and recognition
-- [ ] Improve external design
-- [ ] Translate thesis to English
-- [ ] Clear folders structure
 
 ## Highlights
 
