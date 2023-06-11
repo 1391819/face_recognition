@@ -55,12 +55,12 @@ $PROJECT_ROOT
     <img src="/Utilities/screenshots/analysis.jpg" alt="analysis"/>
   </div>
 
-## License
-
-Apache 2.0
-
 ## Attributions
 
 - <a href="https://www.flaticon.com/free-icons/face" title="face icons">Face icons created by Flat Icons - Flaticon</a>
+
+## License
+
+[Apache 2.0](https://github.com/1391819/face_recognition/blob/master/License.txt) © [Roberto Nacu](https://github.com/1391819)
 
 </div>
