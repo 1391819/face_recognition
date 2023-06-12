@@ -12,22 +12,22 @@ A face recognition system which I implemented for my [Diploma di Stato](https://
 
 ## Roadmap
 
-- [x]  Install and configure Raspberry Pi (Jessie)
-- [x]  Set up SQLite3 database to store face data
-- [x]  Develop a prototype that continuously scans the environment for faces
-- [x]  Faces data pre-processing
-- [x]  Integrate the Viola-Jones algorithm for face detection
-- [x]  Implement the Eigenface method for face recognition
-- [x]  Train the face recognition model
-- [x]  Test and evaluate with known and unknown faces
-- [x]  Improve performance and optimisation
-    - [x]  optimise the algorithms and code to ensure efficient face data pre-processing and real-time performance on the Raspberry Pi
-    - [x]  fine-tune the parameters of the face detection and recognition algorithms to improve accuracy and speed
-- [x]  Extend the existing implementation to handle multiple faces simultaneously
-- [x]  Improve user usability (e.g., user management through a button)
-- [ ]  Improve external design
-- [ ]  Translate thesis to English
-- [ ]  Code refactoring
+- [x] Install and configure Raspberry Pi (Jessie)
+- [x] Set up SQLite3 database to store face data
+- [x] Develop a prototype that continuously scans the environment for faces
+- [x] Pre-process face data
+- [x] Integrate the Viola-Jones algorithm for face detection
+- [x] Implement the Eigenface method for face recognition
+- [x] Train the face recognition model
+- [x] Test and evaluate with known and unknown faces
+- [x] Improve performance and optimization
+    - [x] Optimize the algorithms and code for efficient face data pre-processing and real-time performance on the Raspberry Pi
+    - [x] Fine-tune the parameters of the face detection and recognition algorithms to improve accuracy and speed
+- [x] Extend the existing implementation to handle multiple faces simultaneously
+- [x] Improve user usability (e.g., user management through a button)
+- [ ] Improve external design
+- [ ] Translate thesis to English
+- [ ] Refactor the code
 
 ## Stack
 
